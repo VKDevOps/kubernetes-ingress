@@ -25,6 +25,9 @@ $ git clone https://github.com/vkdevopstraining/kubernetes-ingress.git
 
 $ cd kubernetes-ingress/deployments
 ```
+```
+git checkout v1.9.0
+```
 ## 2. Create a Namespace And SA
 
 ```
